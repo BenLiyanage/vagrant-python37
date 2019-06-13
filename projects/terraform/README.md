@@ -9,7 +9,7 @@ This project is a sample terraform project that deploys a very simple n-tier arc
 
 # Limitations
 
-There are currently a couple limitations with this setup. Note that this configuration is not a battle hardened 
+ Note that this configuration is not a battle hardened 
 production configuration, but a showcase of my docker and terraform ability.  Feel free to ask me about
 mitigating any of these issues.
 
