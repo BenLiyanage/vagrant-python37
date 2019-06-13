@@ -4,7 +4,8 @@ This project is a sample terraform project that deploys a very simple n-tier arc
 
 * N-Tier web server architecture, using 2 servers behind a load balancer.
 * Uses Docker containers for easy deployment.
-* Terraform.  Because planning is amazing. 
+* Terraform.  Because planning is amazing.
+* Really basic bash script example (`./app/deploy.sh`) 
 
 # Limitations
 
